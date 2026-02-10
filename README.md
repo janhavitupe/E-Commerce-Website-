@@ -1,4 +1,5 @@
 # Shopi - E-commerce Frontend
+deployed--> https://e-commerce-website-one-psi-42.vercel.app/
 
 A minimal React e-commerce app built with Vite and Tailwind CSS.
 
